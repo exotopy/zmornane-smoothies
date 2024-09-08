@@ -1,3 +1,1 @@
 # zmornane-smoothies
-
-**smoothies wiki**
