@@ -1,5 +1,5 @@
-https://en.wikipedia.org/wiki/Lacunarity
+[Lacunarity](https://en.wikipedia.org/wiki/Lacunarity)
 
-https://jamanetwork.com/journals/jamapsychiatry/article-abstract/489368
+[the doctor-nurse game](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/489368)
 
-https://en.wikipedia.org/wiki/Knot_tabulation
+[knot tabulation](https://en.wikipedia.org/wiki/Knot_tabulation)
